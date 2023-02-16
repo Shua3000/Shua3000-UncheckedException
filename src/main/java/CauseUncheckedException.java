@@ -15,7 +15,7 @@ public class CauseUncheckedException {
      * @throws Exception
      */
     public void throwUncheckedException() throws Exception{
-        String input = null;
-        input.length();
+     String input = null;
+     input.length();
     }
 }
